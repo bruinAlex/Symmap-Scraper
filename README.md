@@ -1,2 +1,2 @@
-# symmap_scrape
+# symmap_scraper
 Selenium scraper for symmap
